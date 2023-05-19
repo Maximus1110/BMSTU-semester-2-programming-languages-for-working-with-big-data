@@ -1,0 +1,5 @@
+This is a sample input file.
+It contains words of different lengths.
+Some words have three letters, while others have five or more.
+There are also numbers like 12345 and 3.14.
+Hello and welcome!

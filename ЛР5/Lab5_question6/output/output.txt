@@ -1,0 +1,5 @@
+is a sample file.
+It contains words of different lengths.
+letters, others or
+numbers 3.14.
+welcome!

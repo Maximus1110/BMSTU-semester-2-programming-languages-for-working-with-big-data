@@ -1,0 +1,8 @@
+This is a sample file.
+It contains various data types.
+12345
+3.14
+Hello
+2022
+World
+10.5
